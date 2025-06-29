@@ -6,7 +6,7 @@ This is a fully responsive and sleek **Nike landing page clone** built with **Re
 
 ## 🚀 Live Demo
 
-👉 [Live App](https://github.com/muhdzaheermv/nike-website-react-tailwind)
+👉 [Live App](https://nike-website-react-tailwind-sooty.vercel.app/)
 
 ## 🛠️ Tech Stack
 
