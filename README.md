@@ -1,6 +1,6 @@
 # 👟 Nike Website Clone using React & Tailwind CSS
 
-![Homepage](./src/assets/images/homepage.png)
+![Homepage](./src/assets/images/nike.png)
 
 This is a fully responsive and sleek **Nike landing page clone** built with **ReactJS** and **Tailwind CSS**. It mimics the real Nike homepage experience and is ideal for showcasing front-end development and UI skills.
 
