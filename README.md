@@ -1,8 +1,43 @@
-# React + Vite
+# 👟 Nike Website Clone using React & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Homepage](./src/assets/images/homepage.png)
 
-Currently, two official plugins are available:
+This is a fully responsive and sleek **Nike landing page clone** built with **ReactJS** and **Tailwind CSS**. It mimics the real Nike homepage experience and is ideal for showcasing front-end development and UI skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+
+👉 [Live App](https://muhdzaheermv.github.io/nike-website/)
+
+## 🛠️ Tech Stack
+
+- **ReactJS**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+
+## ✨ Features
+
+- Fully responsive design for all devices
+- Clean product showcase and layout
+- Reusable components
+- Tailwind utility-first styling
+- Smooth scrolling UI
+
+
+
+## 📚 Ideal For
+
+- ReactJS + Tailwind CSS learners
+- Responsive UI practice
+- Landing page design
+- Front-End developers building a portfolio
+
+## 📫 Contact Me
+
+- **📧 Email:** muhdzaheermv@gmail.com  
+- **🔗 Portfolio:** [https://portfolio-lilac-eight-60.vercel.app/](https://portfolio-lilac-eight-60.vercel.app/)  
+- **💼 LinkedIn:** [https://www.linkedin.com/in/muhammed-zaheer-836132244/](https://www.linkedin.com/in/muhammed-zaheer-836132244/)
+
+## ⭐ Like This Project?
+
+If you liked this Nike website clone or found it helpful, please give it a **⭐ star** — your support keeps me motivated to build more!
+
